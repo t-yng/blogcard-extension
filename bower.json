@@ -1,0 +1,21 @@
+{
+  "name": "syntax-highliter",
+  "homepage": "https://github.com/t-yng/syntax-hlighliter",
+  "authors": [
+    "tomohiro yanagi <t.yng.greenmoneky@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
